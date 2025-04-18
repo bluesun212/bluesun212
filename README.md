@@ -7,3 +7,6 @@ Outside of research, I am an avid programmer, having spent the better part of my
 Here is a list of papers I have (co)authored:
 1. [An Adaptation of the AAA-Interpolation Algorithm for Model Reduction of MIMO Systems](https://ieeexplore.ieee.org/document/10644885), published in the 2024 IEEE American Control Conference
 2. [Causal Tracking of Distributions in Wasserstein Space: A Model Predictive Control Scheme](https://ieeexplore.ieee.org/document/10886628), published in the 2024 IEEE Conference on Decision and Control
+
+## Contact me
+You can reach me at `[my first initial]+[my last name]@[my institution's website]`.
