@@ -5,8 +5,9 @@ Outside of research, I am an avid programmer, having spent the better part of my
 
 ## Research 
 Here is a list of papers I have (co)authored:
-1. [An Adaptation of the AAA-Interpolation Algorithm for Model Reduction of MIMO Systems](https://ieeexplore.ieee.org/document/10644885), published in the 2024 IEEE American Control Conference
-2. [Causal Tracking of Distributions in Wasserstein Space: A Model Predictive Control Scheme](https://ieeexplore.ieee.org/document/10886628), published in the 2024 IEEE Conference on Decision and Control
+1. [J. Jonas, B. Bamieh, "An Adaptation of the AAA-Interpolation Algorithm for Model Reduction of MIMO Systems"](https://ieeexplore.ieee.org/document/10644885), published in the 2024 IEEE American Control Conference
+2. [M. Emerick, J. Jonas, B. Bamieh, "Causal Tracking of Distributions in Wasserstein Space: A Model Predictive Control Scheme"](https://ieeexplore.ieee.org/document/10886628), published in the 2024 IEEE Conference on Decision and Control
+3. [J. Jonas, B. Bamieh, "An iterative tangential interpolation framework for model reduction of MIMO systems"](https://arxiv.org/abs/2506.03410), submitted to IEEE Transactions on Automatic Control.  
 
 ## Contact me
 You can reach me at `[my first initial]+[my last name]@[my institution's website]`.
